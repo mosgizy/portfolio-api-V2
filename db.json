@@ -1,0 +1,123 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "img": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/pagination.webp?raw=true",
+      "title": "pagination",
+      "description": "Pagination is a react app style with TailwindCss",
+      "category": "react",
+      "source": "https://github.com/mosgizy/Pagination",
+      "demo": "https://profile-pagination.netlify.app/"
+    },
+    {
+      "id": 13,
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/interactive%20comment.webp",
+      "title": "interactive comment section",
+      "description": "an interactive comment section built with HTML,CSS and vanilla Javascript",
+      "category": "javascript",
+      "source": "https://github.com/mosgizy/Interactive-Comment-Section",
+      "demo": "https://mosgizy.github.io/Interactive-Comment-Section/"
+    },
+    {
+      "id": 14,
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/e-commerce%20product%20page.webp",
+      "title": "e-commerce product page",
+      "description": " a resonsive e-commerce product page with the full functionalities built with HTML,CSS and vanila JS",
+      "category": "javascript",
+      "source": "https://github.com/mosgizy/E-Commerce-Product-Page",
+      "demo": "https://mosgizy.github.io/E-Commerce-Product-Page/"
+    },
+    {
+      "id": 16,
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/sunnyside.webp",
+      "title": "sunnyside",
+      "description": "sunnyside is a responsive landing page which is mobile friendly",
+      "category": "landing page",
+      "source": "https://github.com/mosgizy/Sunnyside-Landing-Page",
+      "demo": "https://mosgizy.github.io/Sunnyside-Landing-Page/"
+    },
+    {
+      "id": 17,
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fylo.webp",
+      "title": "fylo dark theme",
+      "description": "fylo landing page is a mobile first approach and responsive landing page",
+      "category": "landing page",
+      "source": "https://github.com/mosgizy/Fylo-Dark-Theme-Landing-Page",
+      "demo": "https://mosgizy.github.io/Fylo-Dark-Theme-Landing-Page/"
+    },
+    {
+      "id": 20,
+      "img": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/quiz.jpeg?raw=true",
+      "title": "quiz app",
+      "description": "a simple quiz app for developers to test there skills with different languages",
+      "category": "react",
+      "source": "https://github.com/mosgizy/Quiz-App",
+      "demo": "https://dev-quiz-app.vercel.app"
+    },
+    {
+      "id": 21,
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fabulous.jpg",
+      "title": "laundry service",
+      "description": "a single page laundry service to promote the business",
+      "category": "landing page",
+      "source": "https://github.com/mosgizy/Fabulous-Laundry",
+      "demo": "https://fabulous-laundry.vercel.app"
+    },
+    {
+      "id": 22,
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/space-tourism.png",
+      "title": "space tourism",
+      "description": "Space tourism multi-page website",
+      "category": "react",
+      "source": "https://github.com/mosgizy/space-tourism",
+      "demo": "https://space-tourism-two-azure.vercel.app"
+    }
+  ],
+
+  "avatar": {
+    "image": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/avartar.jpg?raw=true"
+  },
+
+  "skills": {
+    "main":{
+      "html": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/html.webp",
+      "css": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/css.png?raw=true",
+      "javascript": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/javascript.webp",
+      "react": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/react.webp",
+      "tailwind": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp",
+      "git": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/git.webp"
+    },
+    "others":["bootstrap","materialize UI","styled-components","Sass"]
+  },
+
+  "socialMedia": {
+    "twitter": {
+      "link":"https://twitter.com/",
+      "icon":""
+    },
+    "github": {
+      "link":"https://github.com/mosgizy",
+      "icon":""
+    },
+    "linkedin": {
+      "link":"https://github.com/mosgizy",
+      "icon":""
+    },
+    "discord": {
+      "link":"https://github.com/mosgizy",
+      "icon":""
+    }
+
+  },
+
+  "history": {
+    "education": {
+
+    },
+    "work": {}
+  },
+
+  "api_key": {
+    "emailjs":"TZARVgU4FQxaMRlCf"
+  }
+}
