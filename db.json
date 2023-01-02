@@ -90,7 +90,8 @@
       "javascript": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/javascript.webp",
       "react": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/react.webp",
       "tailwind": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp",
-      "git": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/git.webp"
+      "git": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/git.webp",
+      "nextJs":""
     },
     "others":["bootstrap","materialize UI","styled-components","Sass"]
   },
@@ -98,19 +99,19 @@
   "socialMedia": {
     "twitter": {
       "link":"https://twitter.com/",
-      "icon":""
+      "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/twitter.svg"
     },
     "github": {
       "link":"https://github.com/mosgizy",
-      "icon":""
+      "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/github.svg"
     },
     "linkedin": {
       "link":"https://github.com/mosgizy",
-      "icon":""
+      "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/linkedin-in.svg"
     },
     "discord": {
       "link":"https://github.com/mosgizy",
-      "icon":""
+      "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/discord.svg"
     }
   },
 
