@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "img": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/pagination.webp?raw=true",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/pagination.webp",
       "title": "pagination",
       "description": "Pagination is a react app style with TailwindCss",
       "category": "react",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/interactive%20comment.webp",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/interactive%20comment.webp",
       "title": "interactive comment section",
       "description": "an interactive comment section built with HTML,CSS and vanilla Javascript",
       "category": "javascript",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/e-commerce%20product%20page.webp",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/e-commerce%20product%20page.webp",
       "title": "e-commerce product page",
       "description": " a resonsive e-commerce product page with the full functionalities built with HTML,CSS and vanila JS",
       "category": "javascript",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/sunnyside.webp",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/sunnyside.webp",
       "title": "sunnyside",
       "description": "sunnyside is a responsive landing page which is mobile friendly",
       "category": "landing page",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fylo.webp",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/fylo.webp",
       "title": "fylo dark theme",
       "description": "fylo landing page is a mobile first approach and responsive landing page",
       "category": "landing page",
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "img": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/quiz.jpeg?raw=true",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/quiz.jpeg",
       "title": "quiz app",
       "description": "a simple quiz app for developers to test there skills with different languages",
       "category": "react",
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fabulous.jpg",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/fabulous.jpg",
       "title": "laundry service",
       "description": "a single page laundry service to promote the business",
       "category": "landing page",
@@ -65,9 +65,18 @@
     },
     {
       "id": 8,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/space-tourism.png",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/space-tourism.png",
       "title": "space tourism",
       "description": "Space tourism multi-page website",
+      "category": "react",
+      "source": "https://github.com/mosgizy/space-tourism",
+      "demo": "https://space-tourism-two-azure.vercel.app"
+    },
+    {
+      "id": 9,
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/space-tourism.png",
+      "title": "portfolio V2",
+      "description": "new portfolio for the new year with nextJs and typescript",
       "category": "react",
       "source": "https://github.com/mosgizy/space-tourism",
       "demo": "https://space-tourism-two-azure.vercel.app"
@@ -75,7 +84,7 @@
   ],
 
   "profile": {
-    "image": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/avartar.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/avartar.jpg",
     "developer":"front-end developer",
     "info":"",
     "name":"moshpood ope",
@@ -85,13 +94,13 @@
 
   "skills": {
     "main":{
-      "html": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/html.webp",
-      "css": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/css.png?raw=true",
-      "javascript": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/javascript.webp",
-      "react": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/react.webp",
-      "tailwind": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp",
-      "git": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/git.webp",
-      "nextJs":""
+      "html": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/html.webp",
+      "css": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/css.png",
+      "javascript": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/javascript.webp",
+      "react": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/react.webp",
+      "tailwind": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/tailwind.webp",
+      "git": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/git.webp",
+      "nextJs":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/next.png"
     },
     "others":["bootstrap","materialize UI","styled-components","Sass"]
   },
