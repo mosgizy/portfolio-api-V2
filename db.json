@@ -10,7 +10,7 @@
       "demo": "https://profile-pagination.netlify.app/"
     },
     {
-      "id": 13,
+      "id": 2,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/interactive%20comment.webp",
       "title": "interactive comment section",
       "description": "an interactive comment section built with HTML,CSS and vanilla Javascript",
@@ -19,7 +19,7 @@
       "demo": "https://mosgizy.github.io/Interactive-Comment-Section/"
     },
     {
-      "id": 14,
+      "id": 3,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/e-commerce%20product%20page.webp",
       "title": "e-commerce product page",
       "description": " a resonsive e-commerce product page with the full functionalities built with HTML,CSS and vanila JS",
@@ -28,7 +28,7 @@
       "demo": "https://mosgizy.github.io/E-Commerce-Product-Page/"
     },
     {
-      "id": 16,
+      "id": 4,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/sunnyside.webp",
       "title": "sunnyside",
       "description": "sunnyside is a responsive landing page which is mobile friendly",
@@ -37,7 +37,7 @@
       "demo": "https://mosgizy.github.io/Sunnyside-Landing-Page/"
     },
     {
-      "id": 17,
+      "id": 5,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fylo.webp",
       "title": "fylo dark theme",
       "description": "fylo landing page is a mobile first approach and responsive landing page",
@@ -46,7 +46,7 @@
       "demo": "https://mosgizy.github.io/Fylo-Dark-Theme-Landing-Page/"
     },
     {
-      "id": 20,
+      "id": 6,
       "img": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/quiz.jpeg?raw=true",
       "title": "quiz app",
       "description": "a simple quiz app for developers to test there skills with different languages",
@@ -55,7 +55,7 @@
       "demo": "https://dev-quiz-app.vercel.app"
     },
     {
-      "id": 21,
+      "id": 7,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fabulous.jpg",
       "title": "laundry service",
       "description": "a single page laundry service to promote the business",
@@ -64,7 +64,7 @@
       "demo": "https://fabulous-laundry.vercel.app"
     },
     {
-      "id": 22,
+      "id": 8,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/space-tourism.png",
       "title": "space tourism",
       "description": "Space tourism multi-page website",
@@ -74,8 +74,10 @@
     }
   ],
 
-  "avatar": {
-    "image": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/avartar.jpg?raw=true"
+  "about": {
+    "image": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/avartar.jpg?raw=true",
+    "developer":"front-end developer",
+    "info":""
   },
 
   "skills": {
@@ -107,7 +109,6 @@
       "link":"https://github.com/mosgizy",
       "icon":""
     }
-
   },
 
   "api_key": {
