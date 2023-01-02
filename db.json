@@ -83,44 +83,46 @@
     }
   ],
 
-  "profile": {
-    "image": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/avartar.jpg",
-    "developer":"front-end developer",
-    "info":"",
-    "name":"moshpood ope",
-    "country":"nigeria",
-    "city":"lagos"
-  },
+  "about": {
+    "profile": {
+      "image": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/avartar.jpg",
+      "developer":"front-end developer",
+      "info":["my name is Moshood Ope, i'm a front-end developer based in Lagos, Nigeria i have developed many types of front-ends projects.","i'm passionate about cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX"],
+      "name":"moshpood ope",
+      "country":"nigeria",
+      "city":"lagos"
+    },
 
-  "skills": {
-    "main":{
-      "html": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/html.webp",
-      "css": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/css.png",
-      "javascript": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/javascript.webp",
-      "react": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/react.webp",
-      "tailwind": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/tailwind.webp",
-      "git": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/git.webp",
-      "nextJs":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/next.png"
+    "skills": {
+      "main":{
+        "html": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/html.webp",
+        "css": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/css.png",
+        "javascript": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/javascript.webp",
+        "react": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/react.webp",
+        "tailwind": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/tailwind.webp",
+        "git": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/git.webp",
+        "nextJs":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/next.png"
+      },
+      "others":["bootstrap","materialize UI","styled-components","Sass"]
     },
-    "others":["bootstrap","materialize UI","styled-components","Sass"]
-  },
 
-  "socialMedia": {
-    "twitter": {
-      "link":"https://twitter.com/",
-      "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/twitter.svg"
-    },
-    "github": {
-      "link":"https://github.com/mosgizy",
-      "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/github.svg"
-    },
-    "linkedin": {
-      "link":"https://github.com/mosgizy",
-      "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/linkedin-in.svg"
-    },
-    "discord": {
-      "link":"https://github.com/mosgizy",
-      "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/discord.svg"
+    "socialMedia": {
+      "twitter": {
+        "link":"https://twitter.com/",
+        "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/twitter.svg"
+      },
+      "github": {
+        "link":"https://github.com/mosgizy",
+        "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/github.svg"
+      },  
+      "linkedin": {
+        "link":"https://github.com/mosgizy",
+        "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/linkedin-in.svg"
+      },
+      "discord": {
+        "link":"https://github.com/mosgizy",
+        "icon":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/458ff0d58eb0d8f9bcd7325c3be5860cd08a9b91/assets/discord.svg"
+      }
     }
   },
 
