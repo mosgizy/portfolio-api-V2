@@ -74,10 +74,13 @@
     }
   ],
 
-  "about": {
+  "profile": {
     "image": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/avartar.jpg?raw=true",
     "developer":"front-end developer",
-    "info":""
+    "info":"",
+    "name":"moshpood ope",
+    "country":"nigeria",
+    "city":"lagos"
   },
 
   "skills": {
