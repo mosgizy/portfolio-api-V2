@@ -88,6 +88,7 @@
       "image": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/avartar.jpg",
       "developer":"front-end developer",
       "info":["my name is Moshood Ope, i'm a front-end developer based in Lagos, Nigeria i have developed many types of front-ends projects.","i'm passionate about cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX"],
+      "intro":[],
       "name":"moshood ope",
       "country":"nigeria",
       "city":"lagos"
