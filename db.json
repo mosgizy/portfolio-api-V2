@@ -79,7 +79,7 @@
       "description": "new portfolio for the new year with nextJs and typescript",
       "category": "react",
       "source": "https://github.com/mosgizy/space-tourism",
-      "demo": "https://space-tourism-two-azure.vercel.app"
+      "demo": "https://hasterisk-portfolio.netlify.app/"
     }
   ],
 
@@ -129,8 +129,9 @@
 
   "history": {
     "skvllpvnk":{
+      "id":1,
       "name":"skvllpvnk",
-      "position":"contractor",
+      "title":"contractor",
       "duration":"July - December 2020",
       "recommendation":""
     }
