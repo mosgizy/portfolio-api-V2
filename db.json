@@ -130,14 +130,15 @@
   "history": {
     "skvllpvnk":{
       "id":1,
-      "name":"skvllpvnk",
+      "name":"Hideout Lab",
       "title":"contractor",
-      "duration":"July - December 2020",
+      "duration":"July 2022 - December 2022",
+      "intro":"",
       "recommendation":""
     }
   },
 
   "api_key": {
-    "emailjs":"TZARVgU4FQxaMRlCf"
+    "emailjs":"fuIcQY8uP3X-KbV9F"
   }
 }
