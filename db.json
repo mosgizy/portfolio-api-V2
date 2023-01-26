@@ -127,8 +127,8 @@
     }
   },
 
-  "history": {
-    "skvllpvnk":{
+  "history": [
+    {
       "id":1,
       "name":"Hideout Lab",
       "title":"contractor",
@@ -136,7 +136,7 @@
       "intro":"Throughout Moshood's time at our company, Moshood consistently demonstrated exceptional skills and knowledge in front-end development",
       "recommendation":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/hideoutlab.png"
     }
-  },
+  ],
 
   "api_key": {
     "emailjs":"fuIcQY8uP3X-KbV9F"
