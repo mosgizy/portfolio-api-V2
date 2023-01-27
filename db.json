@@ -129,7 +129,7 @@
 
   "history": [
     {
-      "id":1,
+      "id":0,
       "name":"Hideout Lab",
       "title":"contractor",
       "duration":"July 2022 - December 2022",
@@ -137,7 +137,7 @@
       "recommendation":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/hideoutlab.png"
     },
     {
-      "id":2,
+      "id":1,
       "name":"test",
       "title":"contractor",
       "duration":"July 2022 - December 2023",
