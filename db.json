@@ -75,10 +75,19 @@
     {
       "id": 9,
       "img": "https://github.com/mosgizy/portfolio-api-V2/blob/main/assets/portfolio.png?raw=true",
+      "title": "portfolio V1",
+      "description": "V1 of my portfolio using it to sharpen my react skills",
+      "category": "react",
+      "source": "https://github.com/mosgizy/Portfolio",
+      "demo": "https://hasterisk.vercel.app/"
+    },
+    {
+      "id": 10,
+      "img": "https://github.com/mosgizy/portfolio-api-V2/blob/main/assets/portfolio.png?raw=true",
       "title": "portfolio V2",
       "description": "new portfolio for the new year with nextJs and typescript",
       "category": "react",
-      "source": "https://github.com/mosgizy/space-tourism",
+      "source": "https://github.com/mosgizy/Portfolio-V2",
       "demo": "https://hasterisk-portfolio.netlify.app/"
     }
   ],
