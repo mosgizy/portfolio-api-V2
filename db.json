@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "img": "https://github.com/mosgizy/portfolio-api-V2/blob/main/assets/portfolio.png?raw=true",
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/portfolioV1.png",
       "title": "portfolio V1",
       "description": "V1 of my portfolio using it to sharpen my react skills",
       "category": "react",
