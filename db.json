@@ -114,7 +114,7 @@
         "git": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/git.webp",
         "nextJs":"https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/next.png"
       },
-      "others":["bootstrap","materialize UI","styled-components","Sass"]
+      "others":[["bootstrap","materialize UI"],["styled-components","Sass"]]
     },
 
     "socialMedia": {
