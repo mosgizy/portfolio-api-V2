@@ -89,6 +89,24 @@
       "category": "react",
       "source": "https://github.com/mosgizy/Portfolio-V2",
       "demo": "https://hasterisk-portfolio.netlify.app/"
+    },
+    {
+      "id": 11,
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/skvllpvnk.png",
+      "title": "portfolio V2",
+      "description": "SkvllPvnk is an NFT market place where you can purchase your NFT. Now, Devs at Hideout Labs are shifting gears, evolving Skvllpvnkz into an ultimate gamified staking experience.",
+      "category": "work experience",
+      "source": "",
+      "demo": "https://app.skvllpvnkz.io/"
+    },
+    {
+      "id": 12,
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/hideoutstudio.png",
+      "title": "portfolio V2",
+      "description": "Hideouts studio where each holder of SkvllPvnkz can customize there NFT",
+      "category": "work experience",
+      "source": "",
+      "demo": "https://thehideout.studio"
     }
   ],
 
