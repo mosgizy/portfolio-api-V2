@@ -1,6 +1,15 @@
 {
   "projects": [
     {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/photo.jpg",
+      "title": "Photo Studio",
+      "description": "A photography web application, where unique pictures can be bought and auction",
+      "category": "react",
+      "source": "https://github.com/mosgizy/photography",
+      "demo": "https://photography-rust.vercel.app/"
+    },
+    {
       "id": 4,
       "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/sunnyside.webp",
       "title": "sunnyside",
