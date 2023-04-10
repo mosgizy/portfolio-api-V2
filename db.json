@@ -10,24 +10,6 @@
       "demo": "https://photography-rust.vercel.app/"
     },
     {
-      "id": 4,
-      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/sunnyside.webp",
-      "title": "sunnyside",
-      "description": "sunnyside is a responsive landing page which is mobile friendly",
-      "category": "landing page",
-      "source": "https://github.com/mosgizy/Sunnyside-Landing-Page",
-      "demo": "https://mosgizy.github.io/Sunnyside-Landing-Page/"
-    },
-    {
-      "id": 5,
-      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/fylo.webp",
-      "title": "fylo dark theme",
-      "description": "fylo landing page is a mobile first approach and responsive landing page",
-      "category": "landing page",
-      "source": "https://github.com/mosgizy/Fylo-Dark-Theme-Landing-Page",
-      "demo": "https://mosgizy.github.io/Fylo-Dark-Theme-Landing-Page/"
-    },
-    {
       "id": 6,
       "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/quiz.jpeg",
       "title": "quiz app",
