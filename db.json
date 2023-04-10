@@ -1,33 +1,6 @@
 {
   "projects": [
     {
-      "id": 1,
-      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/pagination.webp",
-      "title": "pagination",
-      "description": "Pagination is a react app style with TailwindCss",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Pagination",
-      "demo": "https://profile-pagination.netlify.app/"
-    },
-    {
-      "id": 2,
-      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/interactive%20comment.webp",
-      "title": "interactive comment section",
-      "description": "an interactive comment section built with HTML,CSS and vanilla Javascript",
-      "category": "javascript",
-      "source": "https://github.com/mosgizy/Interactive-Comment-Section",
-      "demo": "https://mosgizy.github.io/Interactive-Comment-Section/"
-    },
-    {
-      "id": 3,
-      "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/e-commerce%20product%20page.webp",
-      "title": "e-commerce product page",
-      "description": " a resonsive e-commerce product page with the full functionalities built with HTML,CSS and vanila JS",
-      "category": "javascript",
-      "source": "https://github.com/mosgizy/E-Commerce-Product-Page",
-      "demo": "https://mosgizy.github.io/E-Commerce-Product-Page/"
-    },
-    {
       "id": 4,
       "img": "https://raw.githubusercontent.com/mosgizy/portfolio-api-V2/main/assets/sunnyside.webp",
       "title": "sunnyside",
@@ -85,7 +58,7 @@
       "id": 10,
       "img": "https://github.com/mosgizy/portfolio-api-V2/blob/main/assets/portfolio.png?raw=true",
       "title": "portfolio V2",
-      "description": "new portfolio for the new year with nextJs and typescript",
+      "description": "New portfolio for the new year with nextJs and typescript",
       "category": "react",
       "source": "https://github.com/mosgizy/Portfolio-V2",
       "demo": "https://hasterisk-portfolio.netlify.app/"
